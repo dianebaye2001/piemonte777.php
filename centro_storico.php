@@ -1,6 +1,6 @@
 <?php
-	$title = "Centro storico";
-	include_once "header_2.php";
+	$title = "Centro Storico";
+	include_once 'header.php';
 ?>	
 			<div id="main" class="col-md-offset-4 visible-lg">
 				<section>

@@ -1,6 +1,6 @@
 <?php
-	$title = "Architetture civili";
-	include_once "header_2.php";
+	$title = "Architetture Civili";
+	include_once 'header.php';
 ?>				
 			<div id="main" class="col-md-offset-4 visible-md visible-lg">
 				<section>

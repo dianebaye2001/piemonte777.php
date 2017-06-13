@@ -1,6 +1,6 @@
 <?php
-	$title = "Monumenti e luoghi d-interesse";
-	include_once "header_2.php";
+	$title = "Monumenti e Luoghi";
+	include_once 'header.php';
 ?>					
 			<div id="main" class="col-md-offset-4 hidden-sm">
 				<section>
