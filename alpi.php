@@ -4,11 +4,7 @@
 ?>
 				
 				<h1>Le Alpi</h1>
-			</header>
-			<div id="container" class="container-fluid">
-				<div class="row">
-					
-					<div id="main" class="col-md-8">
+			<div id="main" class="col-md-offset-4 visible-lg">
 		<div>
 			<p>Le Alpi sono la catena montuosa più importante d’Europa. Si chiamano in francese <em>Alpes</em>, in tedesco <em>Alpen</em>,<br> in sloveno <em>Alpe</em>. Sesto Pompeo Festo nel suo <em>Primo Libro</em> attesta che il nome deriva da <em>ALBUS</em> (bianco) che<br>
                i Sabini pronunciavano <em>Alpus</em> e indicava il colore sempre bianco della catena innevata anche durante la stagione estiva.

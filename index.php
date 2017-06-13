@@ -2,7 +2,7 @@
   $title = "Home";
   include_once 'header.php';
 ?>
-					<div id="main" class="col-md-8">
+					<aside class="col-md-4 visible-xs visible-lg">
 					<div>
 							<p>Il <b>Piemonte</b> è una regione dell’Italia nord-occidentale di 4.377.791 abitanti con capoluogo Torino. Confina
 							   ad ovest con la Francia, a nord-ovest con la Valle d’Aosta, a nord con la Svizzera, ad est con la Lombardia, a sud-est 
