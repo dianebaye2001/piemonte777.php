@@ -15,5 +15,5 @@
 			  	</section>
 			</div>
 <?php
-	include_once "footer_2.php";
+	include_once 'footer.php';
 ?>
