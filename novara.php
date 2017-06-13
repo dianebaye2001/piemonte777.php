@@ -2,7 +2,7 @@
   $title = "Novara";
   include_once 'header.php';
 ?>
-					<div id="main" class="col-md-8">
+					<div id="main" class="col-md-offset-4">
 		<p> <b> Novara </b> è un comune italiano di 105.574 abitanti, capoluogo dell'omonima provincia in Piemonte. È il secondo comune della regione per popolazione dopo Torino e crocevia di importanti traffici commerciali tra gli assi viari che congiungono Milano a Torino e Genova alla Svizzera.</p>
 		<p>Simbolo della città è la cupola della Basilica di San Gaudenzio, alta 121 metri.</p>
 		<figure>
