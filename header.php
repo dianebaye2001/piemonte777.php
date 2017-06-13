@@ -38,6 +38,9 @@
             <li<?php if ($title == "Alpi") { print ' class="active"';}?>><a href="alpi.php">Alpi</a></li>
             <li<?php if ($title == "Lago Maggiore") { print ' class="active"';}?>><a href="lago-maggiore.php">Lago Maggiore</a></li>
 			<li<?php if ($title == "Novara") { print ' class="active"';}?>><a href="novara.php">Novara</a></li>
+			<li<?php if ($title == "Centro Storico") { print ' class="active"';}?>><a href="centro_storico.php">Centro storico</a></li>
+            <li<?php if ($title == "Architetture civili") { print ' class="active"';}?>><a href="architetture_civili.php">Architetture Civili</a></li>
+            <li<?php if ($title == "Monumenti e Luoghi d'interesse") { print ' class="active"';}?>><a href="Monumenti_e_luoghi_d_interesse.php">Monumenti e Luoghi d'interesse</a></li>
 			</ul>
         </div><!-- /.nav-collapse -->
       </div><!-- /.container -->
